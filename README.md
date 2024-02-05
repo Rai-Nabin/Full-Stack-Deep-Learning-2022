@@ -18,6 +18,7 @@ The Full Stack brings people together to learn and share best practices across t
 | 9 | ML Teams and Project Management |  |  |  |
 | 10 | Ethics |  |  |  |
 | 11 | Project Presentation |  |  |  |
+ 
  **Course:** [LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/) - Spring 2023
  
 | S.N | Lectures | Resources | Completion |
