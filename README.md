@@ -1,5 +1,6 @@
 # Full Stack Deep Learning
 ![Pipeline](./full-stack.png)
+
 The Full Stack brings people together to learn and share best practices across the entire lifecycle of an AI-powered product: from defining the problem and picking a GPU or foundation model to production deployment and continual learning to user experience design.
 
 
