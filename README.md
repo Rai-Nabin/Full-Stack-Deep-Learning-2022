@@ -7,8 +7,8 @@ The Full Stack brings people together to learn and share best practices across t
 **Course:** [Full Stack Deep Learning 2022](https://fullstackdeeplearning.com/course/2022/)
 
 | Week | Lecture | Resources | Note | Completion |
-| :--: | :--- | :--- | ---- | ---- |
-| 1 |  |  | Note |  |
+| :--: | :--- | :--: | :--: | :--: |
+| 1 | Pre-Labs: CNNs, Transformers, PyTorch Lightning| [Lab](https://fullstackdeeplearning.com/course/2022/labs-1-3-cnns-transformers-pytorch-lightning/) | Note | &#x2610; |
 | 2 | Course Vision and When to Use ML |  |  |  |
 | 3 | Development Infrastructure & Tooling |  |  |  |
 | 4 | Troubleshooting & Testing |  |  |  |
